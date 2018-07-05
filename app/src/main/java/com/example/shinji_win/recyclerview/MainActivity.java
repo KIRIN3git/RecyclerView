@@ -1,4 +1,4 @@
-package com.example.shinji_win.recyclerlayout;
+package com.example.shinji_win.recyclerview;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

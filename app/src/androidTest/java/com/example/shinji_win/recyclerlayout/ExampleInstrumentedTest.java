@@ -1,4 +1,4 @@
-package com.example.shinji_win.recyclerlayout;
+package com.example.shinji_win.recyclerview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.shinji_win.recyclerlayout", appContext.getPackageName());
+        assertEquals("com.example.shinji_win.recyclerview", appContext.getPackageName());
     }
 }

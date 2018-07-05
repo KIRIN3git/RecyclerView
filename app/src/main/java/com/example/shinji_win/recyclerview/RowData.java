@@ -1,4 +1,4 @@
-package com.example.shinji_win.recyclerlayout;
+package com.example.shinji_win.recyclerview;
 
 public class RowData {
     private String title;

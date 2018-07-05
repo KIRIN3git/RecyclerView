@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.example.shinji_win.recyclerlayout"
+        applicationId "com.example.shinji_win.recyclerview"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1

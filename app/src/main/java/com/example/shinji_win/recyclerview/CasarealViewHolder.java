@@ -1,4 +1,4 @@
-package com.example.shinji_win.recyclerlayout;
+package com.example.shinji_win.recyclerview;
 
 import android.support.v7.widget.RecyclerView;
 
